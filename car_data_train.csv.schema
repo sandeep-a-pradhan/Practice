@@ -1,0 +1,45 @@
+{
+    "version": "1.0",
+    "rowId": "Row",
+    "targetAttributeName": "Car acceptability",
+    "dataFormat": "CSV",
+    "dataFileContainsHeader": true,
+    "attributes": [
+        {
+            "attributeName": "Row",
+            "attributeType": "CATEGORICAL"
+        },
+        {
+            "attributeName": "Buying price",
+            "attributeType": "CATEGORICAL"
+        },
+        {
+            "attributeName": "Price of the maintenance",
+            "attributeType": "CATEGORICAL"
+        },
+        {
+            "attributeName": "Number of doors",
+            "attributeType": "CATEGORICAL"
+        },
+        {
+            "attributeName": "Persons capacity in terms of persons to carry",
+            "attributeType": "CATEGORICAL"
+
+        },
+        {
+            "attributeName": "Size of luggage boot",
+            "attributeType": "CATEGORICAL"
+
+        },
+        {
+            "attributeName": "Estimated safety of the car",
+            "attributeType": "CATEGORICAL"
+        },
+        {
+            "attributeName": "Car acceptability",
+            "attributeType": "CATEGORICAL"
+        }
+        
+    ],
+	"excludedAttributeNames" : [ ]
+}
